@@ -6,7 +6,7 @@ This repository contains my personal portfolio website.
 A simple, responsive single-page portfolio built with HTML and CSS. Use this as a starting point to showcase projects, links, and contact information.
 
 ## Demo
-(Replace with your GitHub Pages or deployment URL once published)
+
 [https://matheus-martins9.github.io/portifolio](https://app.powerbi.com/view?r=eyJrIjoiZmZiM2ZiNzAtNTBmNi00MWUyLWI1OGYtMzMyYTU0YzY1ZGQ2IiwidCI6IjJkODVkMzFjLTc1ZTUtNDVhZC04ZTk1LWZiOWZhZmZkMmUzOCJ9 )
 
 ## Tech
